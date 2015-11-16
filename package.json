@@ -1,0 +1,32 @@
+{
+  "name": "backed",
+  "version": "0.1.0",
+  "description": "Storage Backed Object Storage, using ES6 Proxy, with built-in FS Storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --harmony_proxies test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wacky6/backed.git"
+  },
+  "keywords": [
+    "object",
+    "storage",
+    "proxy",
+    "backend",
+    "backed"
+  ],
+  "author": "wacky6",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wacky6/backed/issues"
+  },
+  "homepage": "https://github.com/wacky6/backed#readme",
+  "devDependencies": {
+    "chalk": "^1.1.1"
+  },
+  "dependencies": {
+    "harmony-reflect": "^1.4.2"
+  }
+}
