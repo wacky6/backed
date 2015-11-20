@@ -1,6 +1,6 @@
 {
   "name": "backed",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Storage Backed Object Storage, using ES6 Proxy, with built-in FS Storage",
   "main": "index.js",
   "scripts": {
